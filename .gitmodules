@@ -1,6 +1,3 @@
-[submodule "mtt_wp_pro"]
-	path = mtt_wp_pro
-	url = https://github.com/omoral02/mtt_wp_pro.git
 [submodule "matt_webpack_tut"]
 	path = matt_webpack_tut
 	url = https://github.com/omoral02/mtt_wp_pro.git
